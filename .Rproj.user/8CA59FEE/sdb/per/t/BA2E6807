@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{statistics.general-package}\n\\alias{statistics.general-package}\n\\alias{statistics.general}\n\\docType{package}\n\\title{\nStatistics General\n}\n\\description{\nA common set of general statistics functions\n}\n\\details{\n\\tabular{ll}{\nPackage: \\tab statistics.general\\cr\nType: \\tab Package\\cr\nVersion: \\tab 0.1\\cr\nDate: \\tab 2014-03-04\\cr\nLicense: \\tab GPL-2\\cr\n}\n}\n\\author{\nRichard de Borja <richard.deborja@sickkids.ca>\n}\n\\keyword{ statistics }\n",
+    "created" : 1393987739046.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4190129616",
+    "id" : "BA2E6807",
+    "lastKnownWriteTime" : 1393987826,
+    "path" : "~/local/src/R/statistics.general/man/statistics.general-package.Rd",
+    "project_path" : "man/statistics.general-package.Rd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}

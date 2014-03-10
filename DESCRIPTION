@@ -1,0 +1,9 @@
+Package: statistics.general
+Type: Package
+Title: Statistics General
+Version: 0.1
+Date: 2014-03-04
+Author: Richard de Borja <richard.deborja@sickkids.ca>
+Maintainer: Richard de Borja<richard.deborja@sickkids.ca>
+Description: A set of general statistics functions.
+License: GPL-2
